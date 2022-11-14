@@ -46,6 +46,8 @@ After installations is completed, run the app with below in terminal
 
 -   This project creates a new database on the local MySQL server then injects data into it. Data can be manipulated with the use of Insomnia.
 
+A video of the full functionality https://drive.google.com/file/d/10Ri7_iT4Pjc2CukXVAReg_EcFx43XvVM/view
+
 
 ## Resources
 -   [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
