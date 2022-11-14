@@ -48,6 +48,11 @@ After installations is completed, run the app with below in terminal
 
 A video of the full functionality https://drive.google.com/file/d/10Ri7_iT4Pjc2CukXVAReg_EcFx43XvVM/view
 
+![image](https://user-images.githubusercontent.com/3950562/201694049-2bec0b16-b2f3-41df-9235-149fd2624627.png)
+![image](https://user-images.githubusercontent.com/3950562/201694361-94ffd3fa-bc88-41d6-b1b7-56cc8b9ceff3.png)
+![image](https://user-images.githubusercontent.com/3950562/201694407-4263637d-374d-4f64-a649-eb83e1ac013e.png)
+
+
 
 ## Resources
 -   [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
