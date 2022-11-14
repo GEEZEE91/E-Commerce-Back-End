@@ -15,7 +15,7 @@ Source the schema.sql.
   
 Exit my sql
 
-Run
+Install dependencies
 
     npm i
   
@@ -24,6 +24,23 @@ To seed the file run
     npm run seed
   
   
-Finally to run the application
 
-    npm start
+ ## Usage
+
+After installations is completed, run the app with below in terminal
+
+       npm start
+
+
+## Resources
+-   [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+-   [NodeJS](https://nodejs.org/)
+-   Node Packages:
+    -   [MySQL2](https://www.npmjs.com/package/mysql2)
+    -   [Sequelize](https://www.npmjs.com/package/sequelize)
+    -   [dotenv](https://www.npmjs.com/package/dotenv)
+    -   [express](https://www.npmjs.com/package/express)
+
+## License 
+This project is license under MIT
+  ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
