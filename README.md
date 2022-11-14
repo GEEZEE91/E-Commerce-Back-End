@@ -1,9 +1,18 @@
 # E-Commerce-Back-End
 
-Backend application for an E-Commerce Site, built with MySQL, Sequelize, and Express. The database includes tables for products, categories and tags with routes for creating, updating, and deleting within the database. All restful operations are tested with Insomnia.
+Backend application for an E-Commerce Site, built with MySQL, Sequelize, and Express. 
+
+The database includes tables for products, categories and tags with routes for creating, updating, and deleting within the database. 
+
+All restful operations are tested with Insomnia.
+
+
+
 
 ## Installation
 The user should clone the repository from GitHub. 
+
+     gitclone https://github.com/GEEZEE91/E-Commerce-Back-End.git
 
 To connect to the database run and enter password. 
 
@@ -22,14 +31,20 @@ Install dependencies
 To seed the file run
 
     npm run seed
-  
+ 
+After installations is completed, run the app with below in terminal
+
+    npm start
+
   
 
  ## Usage
 
-After installations is completed, run the app with below in terminal
 
-       npm start
+-   This application uses the <kbd>MySQL2</kbd> and <kbd>Sequelize</kbd> package that connects the <kbd>ExpressJS API</kbd> to a <kbd>MySQL</kbd> database.
+
+
+-   This project creates a new database on the local MySQL server then injects data into it. Data can be manipulated with the use of Insomnia.
 
 
 ## Resources
