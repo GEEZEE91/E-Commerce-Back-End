@@ -12,7 +12,7 @@ All restful operations are tested with Insomnia.
 ## Installation
 The user should clone the repository from GitHub. 
 
-     gitclone https://github.com/GEEZEE91/E-Commerce-Back-End.git
+     git clone https://github.com/GEEZEE91/E-Commerce-Back-End.git
 
 To connect to the database run and enter password. 
 
