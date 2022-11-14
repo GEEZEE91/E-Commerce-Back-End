@@ -4,7 +4,7 @@ Backend application for an E-Commerce Site, built with MySQL, Sequelize, and Exp
 
 The database includes tables for products, categories and tags with routes for creating, updating, and deleting within the database. 
 
-All restful operations are tested with Insomnia.
+After Installation, we can manipulate the database tables using Insomnia to fetch all, fetch by id, create new, update and delete records within the database tables.
 
 
 
